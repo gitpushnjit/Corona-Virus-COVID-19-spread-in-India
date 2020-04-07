@@ -1,4 +1,7 @@
 # Corona-Virus-COVID-19-spread-in-India
+
+Do have a look at the Video file to see how the Dashboard automatically shows the progression in the spread of COVID - 19 in India.
+
 1. Acquired a good data set for COVID - 19 in India to analyze.
 2. Cleaned and modeled the data set using Microsoft Excel to have a properly formatted data.
 3. Analyzed the data to create visualizations.
