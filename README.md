@@ -8,3 +8,8 @@ Do have a look at the Video file to see how the Dashboard automatically shows th
 4. Created visualizations and Dashboard using Tableau.
 6. Used various types of Charts for better visualization.
 7. Created and used slicer to select a range of dates starting from the end of January 2020 to beginning of April 2020 to view the data.
+
+
+Use the following link to view the Dashboard in Tableau -
+
+https://public.tableau.com/views/CoronaVirusCOVID-19-India/Dashboard?:display_count=y&:origin=viz_share_link
